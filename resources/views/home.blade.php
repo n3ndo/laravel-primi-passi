@@ -12,6 +12,7 @@
         <div class="row">
             <div class="col-12">
                 <h2 class="text-center">Hello World!</h2>
+                <h3 class="text-center">{{ $text }}</h3>
             </div>
         </div>
     </div>
